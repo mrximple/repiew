@@ -1,0 +1,88 @@
+body{
+    background: #eee;
+}
+.page-container{
+margin-top:40px;    
+}
+figure.user-card {
+    background: #ffffff;
+    padding: 20px;
+    border-top: 3px solid #f2f2f2;
+    border: 1px solid #e1e5f1;
+    text-align: center;
+}
+
+figure.user-card{
+    border-top: 3px solid #94AEAF;
+}
+
+figure.user-card .profile {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    max-width: 72px;
+    margin-bottom: 20px;
+}
+
+figure.user-card h5 {
+    margin: 0 0 5px 0;
+}
+
+figure.user-card h6 {
+    margin: 0 0 15px 0;
+    color: #8796af;
+    font-size: 14px;
+}
+
+figure.user-card p {
+    margin: 0;
+    padding: 0 0 15px 0;
+    color: #8796af;
+    line-height: 150%;
+    font-size: .85rem;
+}
+
+figure.user-card ul.contacts {
+    margin: 0;
+    padding: 0 0 15px 0;
+    line-height: 150%;
+    font-size: .85rem;
+}
+
+figure.user-card ul.contacts li {
+    padding: .2rem 0;
+}
+
+figure.user-card ul.contacts li a {
+    color: #5a99ee;
+}
+
+figure.user-card ul.contacts li a i {
+    min-width: 36px;
+    float: left;
+    font-size: 1rem;
+}
+
+figure.user-card ul.contacts li:last-child a {
+    color: #ff5000;
+}
+
+.ratings i{
+    
+    color:#cecece;
+    font-size:15px;
+    margin-bottom: 15px;
+}
+
+.rating-color{
+    color:#fbc634 !important;
+}
+
+.small-ratings i{
+    color:#cecece; 
+    margin-bottom: 15px;  
+}
+
+ul li {
+    list-style-type: none;
+}

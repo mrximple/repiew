@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #f1f1f1;
+}
+.style-nav{
+    background-image: linear-gradient(to right, #9f8694, #998095, #907b97, #83769a, #73739d, #61719a, #4f6f95, #3c6c8e, #33687f, #32626f, #365c60, #3b5553);
+}
+
+.pay{
+    text-align: center;
+}
+
+.error-reg{
+    color: red;
+    font-size: 15px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.error-log {
+    color: red;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+
+.error-red{
+    color: red;
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
+.pay img{
+    width: 400px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+@media only screen and (max-width: 800px) {
+    .redeem-icon{
+        display: none;
+    }
+}
